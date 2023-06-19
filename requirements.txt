@@ -1,0 +1,9 @@
+wheel==0.40.0
+hypercorn==0.14.3
+fastapi==0.97.0
+sqlalchemy==2.0.16
+pydantic==1.10.9
+pytest==7.2.2
+httpx==0.23.3
+# ibm_db_sa==0.4.0
+# ibm-db==3.1.4
